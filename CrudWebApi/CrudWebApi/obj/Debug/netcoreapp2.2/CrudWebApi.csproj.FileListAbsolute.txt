@@ -1,0 +1,14 @@
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\bin\Debug\netcoreapp2.2\CrudWebApi.deps.json
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\bin\Debug\netcoreapp2.2\CrudWebApi.runtimeconfig.json
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\bin\Debug\netcoreapp2.2\CrudWebApi.runtimeconfig.dev.json
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\bin\Debug\netcoreapp2.2\CrudWebApi.dll
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\bin\Debug\netcoreapp2.2\CrudWebApi.pdb
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\obj\Debug\netcoreapp2.2\CrudWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\obj\Debug\netcoreapp2.2\CrudWebApi.RazorAssemblyInfo.cache
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\obj\Debug\netcoreapp2.2\CrudWebApi.RazorAssemblyInfo.cs
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\obj\Debug\netcoreapp2.2\CrudWebApi.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\obj\Debug\netcoreapp2.2\CrudWebApi.AssemblyInfo.cs
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\obj\Debug\netcoreapp2.2\CrudWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\obj\Debug\netcoreapp2.2\CrudWebApi.dll
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\obj\Debug\netcoreapp2.2\CrudWebApi.pdb
+C:\Users\Jose\source\repos\CrudWebApi\CrudWebApi\obj\Debug\netcoreapp2.2\CrudWebApi.csprojAssemblyReference.cache
